@@ -1,0 +1,10 @@
+.header {
+  background-color: var(--blue, #357edd);
+}
+
+.loading {
+  background-color: lightcoral;
+}
+.error {
+  background-color: var(--dark-red, #e7040f);
+}
